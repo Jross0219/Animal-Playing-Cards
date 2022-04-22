@@ -1,0 +1,24 @@
+/* add your CSS here */
+span{
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none; padding-left: 0;
+}
+
+.description{
+    box-shadow: 10px 10px rgb(191, 205, 245);
+  	margin: 10px;
+  	width: 330px;
+}
+div{
+    border-style: solid;
+    border-color: lightgrey;
+    padding: 5px;  
+    float: left;
+}
+img{
+    width: 300px;
+    object-fit: contain;
+}
